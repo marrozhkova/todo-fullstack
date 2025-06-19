@@ -49,3 +49,10 @@ todo-frontend/
 │   ├── index.css
 │   └── main.jsx
 └── README.md
+```
+## 👤 Author
+
+**Maryna Rozhkova**  
+Frontend Developer | Learner by Heart  
+📫 [mar.rozhkova@gmail.com](mailto:mar.rozhkova@gmail.com)  
+🌐 [Portfolio](https://marrozhkova-portfolio.vercel.app/)
